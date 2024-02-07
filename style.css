@@ -13,7 +13,7 @@ body{
     height: 35px;
     position: absolute;
     margin-top: 240px;
-    margin-left: 80px;
+    margin-left: 90px;
     border: none;
     /* border-color: rgb(254,165,169) ; */
     border-radius: 10px;
@@ -42,7 +42,7 @@ text-transform: uppercase;
   font-size: 15px;
   position: absolute;
   margin-top: 180px;
-    margin-left: 20px;
+    margin-left: 15px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 word-spacing: 2.4px;
 color: white;
