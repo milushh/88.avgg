@@ -4,7 +4,7 @@
 
 function m2(){
    let mi = document.createElement('div');
-   mi.innerText = "Субхана-Ллахи ва би-хамди-хи";
+   mi.innerText = "Скажи:Субхана-Ллахи ва би-хамди-хи";
    mi.id = "mi"
   
 
