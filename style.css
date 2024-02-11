@@ -20,7 +20,7 @@ body{
     
     
     font-family:'Times New Roman', Times, serif ;
-    box-shadow: 0 0 0 4px white, 0 0 0 8px   rgb(240, 231, 224);
+    box-shadow: 0 0 0 4px white, 0 0 0 8px  rgb(217, 162, 170);
 
 letter-spacing: -0.4px;
 word-spacing: 2.4px;
@@ -45,7 +45,7 @@ text-transform: uppercase;
     margin-left: 13px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 word-spacing: 2.4px;
-color: rgb(240, 231, 224);
+color: rgb(217, 162, 170);
 font-weight: normal;
 text-decoration: none;
 font-style: normal;
