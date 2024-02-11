@@ -8,7 +8,7 @@ body{
 }
 
 .cnopc1{
-    background-color:  #ffd5c2;
+    background-color: rgb(217, 162, 170);
     width: 150px;
     height: 35px;
     position: absolute;
@@ -24,7 +24,7 @@ body{
 
 letter-spacing: -0.4px;
 word-spacing: 2.4px;
-color: #588b8b;
+color: white;
 font-weight: normal;
 text-decoration: none;
 font-style: normal;
@@ -35,7 +35,7 @@ text-transform: uppercase;
  
 }
 .cnopc1:hover{
-  color:   white ;
+  color:   #f7a2aa ;
   
 }
 #mi{
