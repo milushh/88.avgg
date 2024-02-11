@@ -20,7 +20,7 @@ body{
     
     
     font-family:'Times New Roman', Times, serif ;
-    box-shadow: 0 0 0 4px #588b8b, 0 0 0 8px  #ffd5c2;
+    box-shadow: 0 0 0 4px white, 0 0 0 8px   rgb(240, 231, 224);
 
 letter-spacing: -0.4px;
 word-spacing: 2.4px;
